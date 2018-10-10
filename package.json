@@ -1,5 +1,5 @@
 {
-  "name": "eloquentjs-exercises",
+  "name": "eloquent-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "eslint": "^5.6.1",
     "eslint-config-google": "^0.10.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jsdoc": "^3.8.0"
   }
 }
