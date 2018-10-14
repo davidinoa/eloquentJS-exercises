@@ -1,7 +1,0 @@
-module.exports = {
-  extends: 'google',
-  rules: {
-    'require-jsdoc': 0,
-    'no-unused-vars': 0,
-  },
-};
